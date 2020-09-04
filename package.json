@@ -4,7 +4,8 @@
   "description": "Video Chat App",
   "main": "index.js",
   "scripts": {
-    "devRun": "nodemon server.js"
+    "devRun": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "Nipun Goyal",
   "license": "ISC",
